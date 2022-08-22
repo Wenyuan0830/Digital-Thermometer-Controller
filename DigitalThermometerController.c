@@ -1,5 +1,5 @@
 /* 
- * File:   Lab4.c
+ * File:   Digital Thermomter Controller
  * Author: Wenyuan Zhu
  * ID: 1646652
  * Created on November 25, 2021, 4:04 PM
