@@ -17,10 +17,13 @@ Results of Testing:
 1. Testing temperature:room temperature which is 25 degree Celsius. 
 2. Testing voltage and current:5V and 0.1A
 3. Testing results:
+
 Pressing the first button:
 The desired temperature is increasing until it reaches the maximum(35 °C),and the mode of the furnace is OFF all the time.
+
 Pressing the second button:
 The desired temperature is decreasing until it reaches the minimum(10 °C), and the mode of the furnace became ON when the compared temperature is lower than the desired temperature.
+
 Pressing the third button:
 The compared temperature toggled, which can be seen from the direction of the arrow.
 
